@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Feedly
+Type=Application
+Icon=unity-webapps-feedly
+MimeType=
+Actions=S0;S1;S2;S3;S4;S5;S6;S7;S8;S9;S10;
+Exec=unity-webapps-runner -n 'RmVlZGx5Cg==' -d 'feedly.com' %u
+StartupWMClass=Feedlyfeedlycom
+    
